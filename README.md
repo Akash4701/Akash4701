@@ -57,5 +57,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-[![Akash Saha profile views](https://u8views.com/api/v1/github/profiles/149469169/views/day-week-month-total-count.svg)](https://u8views.com/github/Akash4701)
-###
+<a href="https://u8views.com/github/Akash4701"><img src="https://u8views.com/api/v1/github/profiles/149469169/views/day-week-month-total-count.svg"></a>
